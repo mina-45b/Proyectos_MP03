@@ -1,3 +1,5 @@
+package Proyectos_MP03.UF4.Game.src;
+
 public class ConfigGame {
 
     public int level;

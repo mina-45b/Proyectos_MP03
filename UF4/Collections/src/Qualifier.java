@@ -1,3 +1,4 @@
+package Proyectos_MP03.UF4.Collections.src;
 
 public enum Qualifier {
     NO_SATISFACTORI("NS",0),

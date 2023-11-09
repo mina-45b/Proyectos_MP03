@@ -1,3 +1,5 @@
+package Proyectos_MP03.UF4.Game.src;
+
 import java.util.Scanner;
 
 public class MenuExample {
