@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Multijocs/Multijocs.iml" filepath="$PROJECT_DIR$/Multijocs/Multijocs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UF4.iml" filepath="$PROJECT_DIR$/UF4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dados/dados.iml" filepath="$PROJECT_DIR$/dados/dados.iml" />
+    </modules>
+  </component>
+</project>
