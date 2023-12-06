@@ -1,0 +1,68 @@
+.root {
+    -fx-background-color: #1f2124;
+}
+
+#gridPane {
+    -fx-background-color: #4040fb;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10 10 10 10;
+    -fx-border-radius: 10 10 10 10;
+}
+
+#nuevoJuego {
+    -fx-background-color: #1f2124;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-family: "Times New Roman";
+    -fx-background-radius: 10 10 10 10;
+    -fx-border-radius: 10 10 10 10;
+}
+
+.button {
+    -fx-background-color: #393d42;
+    -fx-border-color: #b5b5b5;
+    -fx-text-fill: black;
+    -fx-font-family: "Times New Roman";
+}
+
+#menuBar {
+    -fx-background-color: #393d42;
+    -fx-border-color: #b5b5b5;
+}
+
+#menuBar .label {
+    -fx-text-fill: white;
+}
+
+#anchor1 .label {
+    -fx-text-fill: white;
+}
+
+
+.menu-item {
+    -fx-background-color: #393d42;
+}
+
+.button:hover{
+    -fx-background-color: derive(-fx-focus-color,20%);
+}
+
+#nuevoJuego:hover{
+    -fx-background-color: derive(-fx-focus-color,20%);
+}
+
+.menu-item:hover {
+    -fx-background-color: derive(-fx-focus-color,20%);
+}
+
+#clasificaciones {
+    -fx-background-color: #393d42;
+}
+
+#clasificaciones .label {
+ -fx-text-fill: white;
+}
+
+.split-pane {
+    -fx-divider-position: 0.5; /* Posición inicial del divisor en el medio */
+}
+

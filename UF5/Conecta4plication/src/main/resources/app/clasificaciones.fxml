@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+
+<TableView maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+  <columns>
+    <TableColumn prefWidth="98.0" text="Jugador" />
+    <TableColumn prefWidth="90.0" text="Victorias" />
+      <TableColumn prefWidth="97.0" text="Derrotas" />
+      <TableColumn prefWidth="76.0" text="Empates" />
+      <TableColumn minWidth="238.0" prefWidth="238.0" text="Partidas Jugadas" />
+  </columns>
+</TableView>
